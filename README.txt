@@ -1,0 +1,4 @@
+- Python based project that utilizes the BeautifulSoup API and Google’s Natural Language API
+- Prompts the user for a song name then web scraps the internet for the song lyrics
+- Uses Machine Learning and sentiment analysis to convert song lyrics to speech
+- In process of implementing YouTube API to automatically upload to YouTube
